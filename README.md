@@ -1,2 +1,2 @@
 # Textile-Exchange
-Platform Collaboratino 
+Platform Collaboration 
